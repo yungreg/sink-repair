@@ -1,0 +1,73 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    },
+    {
+      "id": 3,
+      "name": "Tony"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "6969-69-69",
+      "id": 1
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "6969-69-69",
+      "id": 2
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "6969-69-69",
+      "id": 3
+    },
+    {
+      "requestId": 0,
+      "plumberId": 0,
+      "date_created": 1664996375880,
+      "id": 4
+    },
+    {
+      "requestId": 0,
+      "plumberId": 0,
+      "date_created": 1664996410817,
+      "id": 5
+    },
+    {
+      "requestId": 0,
+      "plumberId": 0,
+      "date_created": 1664996417306,
+      "id": 6
+    },
+    {
+      "date_created": 1664996545217,
+      "id": 7
+    },
+    {
+      "requestId": "1",
+      "plumberId": "undefined",
+      "date_created": 1664996634120,
+      "id": 8
+    }
+  ],
+  "requests": [
+    {
+      "description": "Leach Golden Faucet",
+      "address": "420 Nunya Ave",
+      "budget": "42069",
+      "neededBy": "6969-04-20",
+      "id": 1
+    }
+  ]
+}
